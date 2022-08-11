@@ -1,4 +1,9 @@
+body {
+    font-family: 'Anton', serif, sans-serif;
+}
+
 h1 {
+    font-family: 'Baskerville', serif;
     color: rgb(62, 145, 62);
 }
 
