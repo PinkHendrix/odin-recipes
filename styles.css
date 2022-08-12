@@ -7,3 +7,14 @@ h1 {
     color: rgb(62, 145, 62);
 }
 
+button {
+    background-color: purple;
+    text-align: center;
+    height: auto;
+    width: 200px;
+}
+
+button:hover {
+    color: aquamarine;
+}
+
